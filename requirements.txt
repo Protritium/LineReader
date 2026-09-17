@@ -1,0 +1,2 @@
+# Optional but recommended: improves automatic Big5 detection.
+chardet>=5.2,<6

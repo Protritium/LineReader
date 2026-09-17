@@ -1,0 +1,26 @@
+name: 问题反馈 / Bug report
+description: 报告使用问题 / Report a problem
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 程序版本 / App version
+      description: 右键 → 关于 / Right click → About
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Windows 版本及缩放比例 / Windows version and display scaling
+  - type: textarea
+    id: steps
+    attributes:
+      label: 问题与复现步骤 / Problem and reproduction steps
+      description: 请说明预期行为和实际行为，可附截图。不要上传密码、Cookie 或整本小说。
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 错误信息 / Error messages
+      render: text

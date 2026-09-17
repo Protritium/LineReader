@@ -1,0 +1,5 @@
+VERSION = "1.7.0"
+AUTHOR = "神奇的氕氚"
+PROFILE = "https://github.com/Protritium"
+REPOSITORY = PROFILE + "/LineReader"
+ISSUES = REPOSITORY + "/issues"
