@@ -1,6 +1,6 @@
 # LineReader · 单行小说阅读器
 
-## [⬇ 下载 Windows 安装包](https://github.com/Protritium/LineReader/releases/latest/download/LineReader-Setup.exe)
+## [⬇ 下载 Windows 安装包](https://github.com/Protritium/LineReader/releases/download/v1.7.0/LineReader-Setup-1.7.0.exe)
 
 [所有版本](https://github.com/Protritium/LineReader/releases) · **简体中文** · [English](README.en.md)
 
